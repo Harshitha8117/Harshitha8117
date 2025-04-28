@@ -20,11 +20,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan1009&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
   </a>
 </div>
-<img src="https://github-readme-stats.vercel.app/api?username=Harshitha8117&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <a href="https://github.com/hariharan1009/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitha8117&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-  </a>
-</div>
 
 ## Connect with Me
 <a href="https://leetcode.com/u/Harshitha8117/" target="_blank" rel="noopener noreferrer">
