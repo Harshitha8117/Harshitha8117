@@ -12,12 +12,12 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="42" height="42" /></a></p>
 <div align="center">
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=hariharan1009&theme=radical&hide_border=true" alt="GitHub Streak Stats">
+  <img src="https://streak-stats.demolab.com?user=Harshitha8117&theme=radical&hide_border=true" alt="GitHub Streak Stats">
 </a>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=hariharan1009&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <a href="https://github.com/hariharan1009/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan1009&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshitha8117&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <a href="https://github.com/Harshitha8117/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitha8117&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
   </a>
 </div>
 
