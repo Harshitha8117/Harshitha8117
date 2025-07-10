@@ -66,11 +66,11 @@ I turn complexity into clarity through scalable code. Whether architecting backe
 
 ## 🌐 Connect With Me
 
-- 🌍 **Portfolio:** [https://portfolio-harshi.vercel.app](https://portfolio-harshi.vercel.app)  
-- 💼 **LinkedIn:** [https://linkedin.com/in/harshitha-k-905a97257](https://linkedin.com/in/harshitha-k-905a97257)  
-- 🧠 **LeetCode:** [https://leetcode.com/u/harshitha-0201](https://leetcode.com/u/harshitha-0201) 
+- 🌍 **Portfolio:** [portfolio-harshi.vercel.app](https://portfolio-harshi.vercel.app)  
+- 💼 **LinkedIn:** [in/harshitha-k-905a97257](https://linkedin.com/in/harshitha-k-905a97257)  
+- 🧠 **LeetCode:** [leetcode.com/u/harshitha-0201](https://leetcode.com/u/harshitha-0201) 
 - 📧 **Email:** harshitha02012005@gmail.com 
-- 🛠️ **GitHub:** [https://github.com/Harshitha8117](https://github.com/Harshitha8117)
+- 🛠️ **GitHub:** [Harshitha8117](https://github.com/Harshitha8117)
 
 ---
 
