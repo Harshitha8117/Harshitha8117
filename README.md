@@ -56,19 +56,21 @@ I turn complexity into clarity through scalable code. Whether architecting backe
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshitha-2311&theme=tokyonight)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshitha-2311&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitha-2311&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=harshitha-2311&theme=tokyonight&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats-harshitha2311.vercel.app/api?username=harshitha-2311&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-harshitha2311.vercel.app/api/top-langs/?username=harshitha-2311&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect With Me
 
-- 🌍 **Portfolio:** [your-portfolio-link.com](https://portfolio-harshi.vercel.app)  
-- 💼 **LinkedIn:** [linkedin.com/in/your-link](https://linkedin.com/in/harshitha-k-905a97257)  
-- 🧠 **LeetCode:** [leetcode.com/your-profile](https://leetcode.com/u/harshitha-0201) 
+- 🌍 **Portfolio:** [https://portfolio-harshi.vercel.app](https://portfolio-harshi.vercel.app)  
+- 💼 **LinkedIn:** [https://linkedin.com/in/harshitha-k-905a97257](https://linkedin.com/in/harshitha-k-905a97257)  
+- 🧠 **LeetCode:** [https://leetcode.com/u/harshitha-0201](https://leetcode.com/u/harshitha-0201) 
 - 📧 **Email:** harshitha02012005@gmail.com 
-- 🛠️ **GitHub:** [github.com/harshitha-2311](https://github.com/Harshitha8117)
+- 🛠️ **GitHub:** [https://github.com/Harshitha8117](https://github.com/Harshitha8117)
 
 ---
 
