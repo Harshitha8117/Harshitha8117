@@ -11,7 +11,7 @@ I turn complexity into clarity through scalable code. Whether architecting backe
 `Java` · `PHP` · `JavaScript` · `React` · `Next.js` · `Node.js` · `HTML/CSS` · `Tailwind CSS`
 
 **Databases & Tools:**  
-`MySQL` · `JDBC` · `File I/O` · `Postman` · `Git/GitHub` · `XAMPP` · `Hostinger` · `Vercel`
+`MySQL` · `JDBC` · `File I/O` · `Git/GitHub` · `XAMPP` · `Vercel`
 
 ---
 
@@ -46,12 +46,11 @@ I turn complexity into clarity through scalable code. Whether architecting backe
 ---
 
 ## 🏆 Achievements
-
-- 🥇 Winner of **INNOGEN'25** – National Hackathon (₹10,000 prize)  
-- 🏅 Finalist – **Nexathon**, VIT Chennai  
+  
 - 🏆 Selected for **Kaar Technologies Final Interview Round**  
 - 📜 **NPTEL Elite Certificate** in Internet of Things – IIT Kharagpur  
-- 💡 Built 6+ production-ready projects across full-stack & systems tracks  
+- 💡 Built 6+ production-ready projects across full-stack & systems tracks
+- 📜 **NPTEL Elite Certificate** in Computer Networks and Internet Protocol – IIT Kharagpur
 
 ---
 
@@ -65,12 +64,11 @@ I turn complexity into clarity through scalable code. Whether architecting backe
 
 ## 🌐 Connect With Me
 
-- 🌍 **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/your-link](https://linkedin.com/in/your-link)  
-- 🧠 **LeetCode:** [leetcode.com/your-profile](https://leetcode.com/your-profile)  
-- 📧 **Email:** your.email@example.com  
-- 💬 **WhatsApp:** +91-XXXXXXXXXX  
-- 🛠️ **GitHub:** [github.com/harshitha-2311](https://github.com/harshitha-2311)
+- 🌍 **Portfolio:** [your-portfolio-link.com](https://portfolio-harshi.vercel.app)  
+- 💼 **LinkedIn:** [linkedin.com/in/your-link](https://linkedin.com/in/harshitha-k-905a97257)  
+- 🧠 **LeetCode:** [leetcode.com/your-profile](https://leetcode.com/u/harshitha-0201) 
+- 📧 **Email:** harshitha02012005@gmail.com 
+- 🛠️ **GitHub:** [github.com/harshitha-2311](https://github.com/Harshitha8117)
 
 ---
 
