@@ -1,31 +1,77 @@
-<h1>Hi 👋, I'm Harshitha K</h1>
-<p>A passionate frontend developer from K Ramakrishnan College of Technology</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="42" height="42" /></a></p>
-<div align="center">
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Harshitha8117&theme=radical&hide_border=true" alt="GitHub Streak Stats">
-</a>
+# 👋 Hey there, I'm Harshitha!
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshitha8117&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <a href="https://github.com/Harshitha8117/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitha8117&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-  </a>
-</div>
+🚀 Developer | System Thinker | Innovation Enthusiast  
+I turn complexity into clarity through scalable code. Whether architecting backend systems, building intuitive UIs, or solving algorithmic puzzles, I thrive at the intersection of logic, design, and impact. Let’s engineer what the future needs.
 
-## Connect with Me
-<a href="https://leetcode.com/u/Harshitha8117/" target="_blank" rel="noopener noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="20" /> 
-</a> | 
-<a href="https://www.linkedin.com/in/harshitha-k-905a97257/" target="_blank" rel="noopener noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" /> 
-</a> 
+---
 
+## 🔧 Tech Stack
+
+**Languages & Frameworks:**  
+`Java` · `PHP` · `JavaScript` · `React` · `Next.js` · `Node.js` · `HTML/CSS` · `Tailwind CSS`
+
+**Databases & Tools:**  
+`MySQL` · `JDBC` · `File I/O` · `Postman` · `Git/GitHub` · `XAMPP` · `Hostinger` · `Vercel`
+
+---
+
+## 🚀 Featured Projects
+
+### ✅ [TaskDashboard](#)
+> Java CLI + React + Node.js Bridge  
+- Multithreaded task execution system  
+- Real-time UI dashboard for task monitoring  
+- Custom task queues, logs, and state management
+
+### 💸 [Payroll Management System](#)
+> PHP + MySQL | Deployed on Hostinger  
+- Add/view/delete employees  
+- Auto salary calculation + clean UI  
+- Admin-friendly and production-ready
+
+### 🗂️ [Secure File Sharing System](#)
+> REST APIs with Role-Based Uploads  
+- Supports only `.pptx`, `.docx`, `.xlsx` files  
+- Ops/User roles with restricted access  
+- Secure backend with audit trail
+
+### 🏦 [Console Banking System](#)
+> Java (JDBC + File I/O)  
+- Account creation, authentication  
+- Deposit, withdrawal, transfer with logging  
+- Scalable CLI with planned web upgrade
+
+> 🔗 [View All Projects →](https://github.com/harshitha-2311)
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Winner of **INNOGEN'25** – National Hackathon (₹10,000 prize)  
+- 🏅 Finalist – **Nexathon**, VIT Chennai  
+- 🏆 Selected for **Kaar Technologies Final Interview Round**  
+- 📜 **NPTEL Elite Certificate** in Internet of Things – IIT Kharagpur  
+- 💡 Built 6+ production-ready projects across full-stack & systems tracks  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshitha-2311&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshitha-2311&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitha-2311&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+- 🌍 **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/your-link](https://linkedin.com/in/your-link)  
+- 🧠 **LeetCode:** [leetcode.com/your-profile](https://leetcode.com/your-profile)  
+- 📧 **Email:** your.email@example.com  
+- 💬 **WhatsApp:** +91-XXXXXXXXXX  
+- 🛠️ **GitHub:** [github.com/harshitha-2311](https://github.com/harshitha-2311)
+
+---
+
+> 💡 *“The best way to predict the future is to invent it.”*
