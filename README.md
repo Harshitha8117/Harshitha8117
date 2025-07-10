@@ -17,31 +17,32 @@ I turn complexity into clarity through scalable code. Whether architecting backe
 
 ## 🚀 Featured Projects
 
-### ✅ [TaskDashboard](#)
+### ✅ [TaskDashboard](https://github.com/Harshitha8117/Task_Scheduler)
 > Java CLI + React + Node.js Bridge  
 - Multithreaded task execution system  
 - Real-time UI dashboard for task monitoring  
 - Custom task queues, logs, and state management
 
-### 💸 [Payroll Management System](#)
+### 💸 [Payroll Management System](https://github.com/Harshitha8117/Payroll_Management)
 > PHP + MySQL | Deployed on Hostinger  
 - Add/view/delete employees  
 - Auto salary calculation + clean UI  
 - Admin-friendly and production-ready
 
-### 🗂️ [Secure File Sharing System](#)
-> REST APIs with Role-Based Uploads  
-- Supports only `.pptx`, `.docx`, `.xlsx` files  
-- Ops/User roles with restricted access  
-- Secure backend with audit trail
+### 💬 [Multi-User Chat App](https://github.com/Harshitha8117/Multi_User_Chat)
+> Java Sockets + Threads | HTML/CSS Frontend  
+- Real-time chat between multiple users  
+- Handles concurrent connections with threading  
+- User-friendly interface using only Java and HTML/CSS
 
-### 🏦 [Console Banking System](#)
+
+### 🏦 [Console Banking System](https://github.com/Harshitha8117/Console_Banking_System)
 > Java (JDBC + File I/O)  
 - Account creation, authentication  
 - Deposit, withdrawal, transfer with logging  
 - Scalable CLI with planned web upgrade
 
-> 🔗 [View All Projects →](https://github.com/harshitha-2311)
+> 🔗 [View All Projects →](https://github.com/Harshitha8117)
 
 ---
 
