@@ -57,11 +57,11 @@ I turn complexity into clarity through scalable code. Whether architecting backe
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=harshitha-2311&theme=tokyonight&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats-harshitha2311.vercel.app/api?username=harshitha-2311&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-harshitha2311.vercel.app/api/top-langs/?username=harshitha-2311&layout=compact&theme=tokyonight)
+<div align="center">
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dazzy11&show_icons=true&locale=en&layout=compact" alt="dazzy11" /></p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dazzy11&theme=dark" width="400" />
+  <a href="https://leetcode.com/loginov-kirill/"><img src="https://leetcard.jacoblin.cool/deepakmadhukumar?theme=dark" width="400" /></a>
+</div>
 
 ---
 
