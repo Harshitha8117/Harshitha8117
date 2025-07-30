@@ -42,7 +42,7 @@ I turn complexity into clarity through scalable code. Whether architecting backe
 - Deposit, withdrawal, transfer with logging  
 - Scalable CLI with planned web upgrade
 
-> 🔗 [View All Projects →](https://github.com/Harshitha8117)
+> 🔗 [View All Projects →](https://portfolio-harshi.vercel.app/)
 
 ---
 
